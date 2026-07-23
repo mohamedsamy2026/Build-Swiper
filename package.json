@@ -1,11 +1,9 @@
 {
-  "name": "Project",
+  "name": "Build Swiper",
   "private": true,
   "type": "module",
   "dependencies": {
-    "@tailwindcss/vite": "^4.3.3",
-    "swiper": "^14.0.6",
-    "tailwindcss": "^4.3.3"
+    "swiper": "^14.0.6"
   },
   "devDependencies": {
     "vite": "^5.0.0"
